@@ -1,0 +1,11 @@
+{
+    "conventionalCommits.scopes": [
+        "general",
+        "auth",
+        "user",
+        "user-address",
+        "user-contacts",
+        "events",
+        "accreditations"
+    ]
+}
